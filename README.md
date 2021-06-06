@@ -1,5 +1,5 @@
 # Stock Market Analysis
 
 ## Technical Indicators Reference:-
-To know more about the technical indicators used visit - https://www.investopedia.com/
+To know more about the Technical Indicators visit - https://www.investopedia.com/
 
