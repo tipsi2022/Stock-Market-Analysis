@@ -10,6 +10,7 @@
 
 ## Feature Engineering:-
 ### Feature Extraction:- 
+* Historical Stock Data download from Yahoo Finance
 * Calculation of Moving Averages
 * Calculation of Momentum Indicators
 * Extraction of Closing Prices of other Tickers(Google, Mircrosoft, Amazon, Facebook)
