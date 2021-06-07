@@ -1,4 +1,4 @@
-# Stock Market Analysis and Prediction for Apple
+# Stock Market Analysis and Prediction of Infosys
 
 ## Best Time Period for Moving Average:-
 * Caculation of Best Lookback Period Based on the number of days you want to keep the stocks.
