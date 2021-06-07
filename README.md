@@ -1,6 +1,6 @@
 # Stock Market Analysis and Prediction of Infosys
 
-## Best Time Period for Moving Average:-
+## Best Lookback Period for Moving Average:-
 * Caculation of Best Lookback Period Based on the number of days you want to keep the stocks.
 ## Stock Screener:-
 * Calculation of Technical Indicators
