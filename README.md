@@ -10,12 +10,12 @@
 
 ## Feature Engineering:-
 ### Feature Extraction:- 
-* Historical Stock Data download from Yahoo Finance
+* Downloading Historical Stock Data from Yahoo Finance
 * Calculation of Moving Averages
 * Calculation of Momentum Indicators
 * Extraction of Closing Prices of other Tickers(Google, Mircrosoft, Amazon, Facebook)
 * Calculation of Returns for Target Variable and Other Tickers.
-  - Formulae = (close(t)/close(t - 1)) - 1
+  - Formulae = (Close(t)/Close(t - 1)) - 1 or (Adj Close)
 * Calculation of Change in Volume for Target Variable
   - Formulae = Volume(t)/Volume(t - 1)
  
