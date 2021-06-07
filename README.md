@@ -25,5 +25,5 @@
 - https://medium.com/@Nikhilkohli1/extracting-features-for-stock-prediction-streamlit-based-application-a97afc55d926
 
 ## Technical Indicators Reference:-
-To know more about the Technical Indicators visit - https://www.investopedia.com/
+To know about the Technical Indicators visit - https://www.investopedia.com/
 
