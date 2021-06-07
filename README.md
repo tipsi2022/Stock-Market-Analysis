@@ -1,5 +1,13 @@
 # Stock Market Analysis and Prediction for Apple
 
+## Best Time Period for Moving Average:-
+* Caculation of Best Lookback Period Based on the number of days you want to keep the stocks.
+## Stock Screener:-
+* Calculation of Technical Indicators
+* Implementation of Strategy and Backtesting
+* Graphical Representation of Cumulative PnL, Moving Average and Momentum Indicator
+* Plotting Candlestick Graph of the stock
+
 ## Feature Engineering:-
 ### Feature Extraction:- 
 * Calculation of Moving Averages
