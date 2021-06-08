@@ -13,7 +13,7 @@
 * Downloading Historical Stock Data from Yahoo Finance
 * Calculation of Moving Averages
 * Calculation of Momentum Indicators
-* Extraction of Closing Prices of other Tickers(Google, Mircrosoft, Amazon, Facebook)
+* Extraction of Closing Prices of other Tickers
 * Calculation of Returns for Target Variable and Other Tickers.
   - Formulae = (Close(t)/Close(t - 1)) - 1 or (Adj Close)
 * Calculation of Change in Volume for Target Variable
