@@ -18,11 +18,6 @@
   - Formulae = (Close(t)/Close(t - 1)) - 1 or (Adj Close)
 * Calculation of Change in Volume for Target Variable
   - Formulae = Volume(t)/Volume(t - 1)
- 
-### Feature Engineering References:-
-- https://towardsdatascience.com/in-12-minutes-stocks-analysis-with-pandas-and-scikit-learn-a8d8a7b50ee7
-- https://www.investopedia.com/terms/v/volume.asp
-- https://medium.com/@Nikhilkohli1/extracting-features-for-stock-prediction-streamlit-based-application-a97afc55d926
 
 ## Technical Indicators Reference:-
 To know about the Technical Indicators visit - https://www.investopedia.com/
