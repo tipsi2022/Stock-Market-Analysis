@@ -1,4 +1,4 @@
-# Analysis and Prediction of Infosys Stocks
+# Analysis Infosys Stocks
 
 ## Technical Indicators Reference:-
 To know about the Technical Indicators visit - https://www.investopedia.com/
