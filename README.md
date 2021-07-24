@@ -1,5 +1,5 @@
 # Stock Market Analysis
 
-To know about the Technical Indicators visit - https://www.investopedia.com/
+[Technical Indicators Reference](https://www.investopedia.com/)
 
-To know about Recurrent Neural Netwroks visit - https://youtu.be/SEnXr6v2ifU
+[Recurrent Neural Netwroks Reference](https://youtu.be/SEnXr6v2ifU)
